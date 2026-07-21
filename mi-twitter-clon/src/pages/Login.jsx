@@ -36,7 +36,7 @@ const Login = ({ onLogin }) => {
           type="text"
           placeholder="Ingresa tu nombre de usuario"
           value={username}
-          onChange={(e) => setUsername(e.target.value)}
+          onChange={(e) => setUserName(e.target.value)}
           style={{ padding: "8px", fontSize: "16px" }}
         />
         <button

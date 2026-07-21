@@ -18,7 +18,7 @@ const App = () => {
 
   // Funcion para iniciar sesion
   const login = (username) => {
-    setUser(userData);
+    const userData = { username }; 
     localStorage.setItem("user", JSON.stringify(userData));
   };
 
