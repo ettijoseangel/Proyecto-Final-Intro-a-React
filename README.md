@@ -1,4 +1,4 @@
-# Proyecto de Manejo de Rutas - Módulo 6: Introducción a React
+# Proyecto Final: Intro a React - Módulo 6: Introducción a React
 
 > Ahora practicaremos lo aprendido en esta introducción a React.
 
